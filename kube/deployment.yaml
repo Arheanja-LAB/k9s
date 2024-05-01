@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: flask-app
-          image: arheanja/flask-app:latest
+          image: arheanja/flask-app:5f082ea07273d460472a334076362a8e98695b1c
           ports:
             - containerPort: 5000
